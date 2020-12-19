@@ -1,34 +1,82 @@
 {
     "first_words": [
-        {
-            "id": 1,
-            "value": "Yes,"
-        },
-        {
-            "id": 2,
-            "value": "Kung Fu"
-        }
+        { "value": "Yes," },
+        { "value": "EAEE,," },
+        { "value": "Eae rapaziada!" },
+        { "value": "What?" },
+        { "value": "WHATs THAT, MAN???" },
+        { "value": "Pessoal..." },
+        { "value": "SuplaEgo, yeah!" },
+        { "value": "Eu toco" },
+        { "value": "I love" },
+        { "value": "Galera," },
+        { "value": "Não é facil." },
+        { "value": "LETS" },
+        { "value": "let's" },
+        { "value": "YEAAHH.." },
+        { "value": "satisfação!" },
+        { "value": "No!!" },
+        { "value": "What's up man??" },
+        { "value": "I" },
+        { "value": "C mmon" },
+        { "value": "Opa!" }
     ],
-
+        
     "middle_words": [
-        {
-            "id": 1,
-            "value": "C'mon"
-        },
-        {
-            "id": 2,
-            "value": "F*ck"
-        }
+        { "value": "c' mmon" },
+        { "value": "C MMON" },
+        { "value": "kung fu on" },
+        { "value": "f*ck" },
+        { "value": "f*cking" },
+        { "value": "f*ck that!!!" },
+        { "value": "rock n roll" },
+        { "value": "vamo what? suck c*ck?" },
+        { "value": "PUNK ROCK" },
+        { "value": "I love" },
+        { "value": "I dont give a f*ck!!" },
+        { "value": "does nt matter" },
+        { "value": "meu pai é petista!" },
+        { "value": "minha mãe é golpista!" },
+        { "value": "estou apaixonado 😍" },
+        { "value": "imagine se a minha mãe fosse..." },
+        { "value": "smoke weed" },
+        { "value": "smoke" },
+        { "value": "diga o que você pensa!" },
+        { "value": "eu luto" },
+        { "value": "muito loco" },
+        { "value": "I hate" },
+        { "value": "ODEIO" },
+        { "value": "eu sou" },
+        { "value": "my man" },
+        { "value": "meu estilo" }
     ],
 
     "final_words": [
-        {
-            "id": 1,
-            "value": "Kids"
-        },
-        {
-            "id": 1,
-            "value": "Papito"
-        }
+        { "value": "kids!" },
+        { "value": "KIDSS" },
+        { "value": "PAPITOW!!" },
+        { "value": "papito" },
+        { "value": "Champs!" },
+        { "value": "parça da erva" },
+        { "value": "haha 😎" },
+        { "value": "f*ck yea" },
+        { "value": "daddy" },
+        { "value": "SuplaEgo" },
+        { "value": "PUNK" },
+        { "value": "hahaha" },
+        { "value": "to brincando" },
+        { "value": "eu sou anarquista" },
+        { "value": "Suplicy" },
+        { "value": "YEAAHH KID S" },
+        { "value": "ANARQUIA LIFESTYLE" },
+        { "value": "F*CK TRUMP" },
+        { "value": "liberty" },
+        { "value": "boxe" },
+        { "value": "kung fu" },
+        { "value": "ROCK N ROLL BABY 🤘" },
+        {"value": "tá ligado??" },
+        { "value": "I'm kidding" },
+        { "value": "having sex" },
+        { "value":"Brother" }
     ]
 }

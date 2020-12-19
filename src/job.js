@@ -3,8 +3,8 @@ const sentencesController = require('./controllers/SentencesController');
 const CronJob = require('cron').CronJob;
 
 var job = new CronJob(
-    // '*/30 * * * *',
-    '*/5 * * * * *',
+    '*/30 * * * *',
+    // '*/5 * * * * *',
     async () => {
         console.log('cron job started!');
         await sentencesController.generateSentence();

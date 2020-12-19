@@ -27,7 +27,8 @@ module.exports = {
 
         const sentence = `${firstPart.value} ${middlePart.value} ${finalPart.value}`;
 
-        // client.tweet(sentence);
         console.log(sentence);
+
+        client.tweet(sentence);
     }
 }
