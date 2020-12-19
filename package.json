@@ -5,7 +5,8 @@
   "author": "Felipe Souza",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/app.js"
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.6",
