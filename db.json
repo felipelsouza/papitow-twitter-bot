@@ -1,0 +1,34 @@
+{
+    "first_words": [
+        {
+            "id": 1,
+            "value": "Yes,"
+        },
+        {
+            "id": 2,
+            "value": "Kung Fu"
+        }
+    ],
+
+    "middle_words": [
+        {
+            "id": 1,
+            "value": "C'mon"
+        },
+        {
+            "id": 2,
+            "value": "F*ck"
+        }
+    ],
+
+    "final_words": [
+        {
+            "id": 1,
+            "value": "Kids"
+        },
+        {
+            "id": 1,
+            "value": "Papito"
+        }
+    ]
+}
