@@ -7,37 +7,27 @@ const db = low(adapter);
 const client = require('../config/twitter');
 
 module.exports = {
-    async generateSentence(req, res) {
-        const firstWords = (await db)
+    async generateSentence() {
+
+        const firstWordsArray = (await db)
             .get('first_words')
-            .find({ id: 1 })
-            .value();
+            .value()
 
-        const middleWords = (await db)
+        const middleWordsArray = (await db)
             .get('middle_words')
-            .find({ id: 1 })
             .value();
 
-        const finalWords = (await db)
+        const finalWordsArray = (await db)
             .get('final_words')
-            .find({ id: 1 })
             .value();
 
-        const sentence = `${firstWords.value} ${middleWords.value} ${finalWords.value}`;
+        const firstPart = firstWordsArray[Math.floor(Math.random() * firstWordsArray.length)]
+        const middlePart = middleWordsArray[Math.floor(Math.random() * middleWordsArray.length)]
+        const finalPart = finalWordsArray[Math.floor(Math.random() * finalWordsArray.length)]
 
-        client.tweet(sentence);
+        const sentence = `${firstPart.value} ${middlePart.value} ${finalPart.value}`;
 
-        return res.json({ sentence });
+        // client.tweet(sentence);
+        console.log(sentence);
     }
 }
-
-
-// routes.get('/', (req, res) => {
-//     var msg = 'Yes Baby!!!';
-
-//     client.tweet(msg);
-
-//     res.json({
-//         tweet: msg
-//     })
-// });

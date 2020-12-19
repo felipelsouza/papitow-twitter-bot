@@ -1,6 +1,6 @@
 const express = require('express');
-const routes = require('./routes');
 const cors = require('cors');
+const job = require('./job');
 
 const app = express();
 
@@ -8,7 +8,7 @@ app.use(cors());
 
 app.use(express.json());
 
-app.use(routes);
+app.set(job);
 
 const port = process.env.PORT || 3333;
 
