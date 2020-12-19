@@ -9,14 +9,14 @@
     "start": "node src/app.js"
   },
   "devDependencies": {
-    "nodemon": "^2.0.6",
-    "dotenv": "^8.2.0"
+    "nodemon": "^2.0.6"
   },
   "dependencies": {
     "cron": "^1.8.2",
     "express": "^4.17.1",
     "twitter": "^1.7.1",
     "cors": "^2.8.5",
-    "lowdb": "^1.0.0"
+    "lowdb": "^1.0.0",
+    "dotenv": "^8.2.0"
   }
 }
