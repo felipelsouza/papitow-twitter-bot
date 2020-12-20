@@ -19,7 +19,8 @@
         { "value": "What's up man??" },
         { "value": "I" },
         { "value": "C mmon" },
-        { "value": "Opa!" }
+        { "value": "Opa!" },
+        { "value": "That s" }
     ],
         
     "middle_words": [
@@ -48,7 +49,8 @@
         { "value": "ODEIO" },
         { "value": "eu sou" },
         { "value": "my man" },
-        { "value": "meu estilo" }
+        { "value": "meu estilo" },
+        { "value": "crazy" }
     ],
 
     "final_words": [
@@ -74,7 +76,7 @@
         { "value": "boxe" },
         { "value": "kung fu" },
         { "value": "ROCK N ROLL BABY 🤘" },
-        {"value": "tá ligado??" },
+        { "value": "tá ligado??" },
         { "value": "I'm kidding" },
         { "value": "having sex" },
         { "value":"Brother" }
