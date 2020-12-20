@@ -3,7 +3,7 @@ const sentencesController = require('./controllers/SentencesController');
 const CronJob = require('cron').CronJob;
 
 var job = new CronJob(
-    '*/30 * * * *',
+    '0 */1 * * *',
     // '*/5 * * * * *',
     async () => {
         console.log('cron job started!');
