@@ -23,7 +23,7 @@
 
 Você também pode contribuir com o projeto ao abrir uma nova **Issue**
 
-### 💻 Execução
+## 💻 Execução
 
 Após clonar o repositório em sua máquina:
 
