@@ -46,7 +46,11 @@
         { "value": "Meus caros Champs," },
         { "value": "….what the fuck man!!" },
         { "value": "Eu ja fui capa da revista @mad.magazine …"},
-        { "value": "Porra...tem alguem fumando maconha ai?" }
+        { "value": "Porra...tem alguem fumando maconha ai?" },
+        { "value": "Juliette" },
+        { "value": "Triste ..." },
+        { "value": "High times…" },
+        { "value": "E aí amor" }
     ],
         
     "middle_words": [
@@ -104,7 +108,13 @@
         { "value": "minha panturrilha está fudida mesmo…" },
         { "value": "Minha namorada achou tipo gatinho…disse que deu tesão" },
         { "value": "Hoje acordei na vibração Gótica!" },
-        { "value": "You can t stop the punk rock!" }
+        { "value": "You can t stop the punk rock!" },
+        { "value": "Ta tudo verde!!" },
+        { "value": "Morde e assopra" },
+        { "value": "Blinded by fashion…the fashionista!" },
+        { "value": "Quem gosta do Black Sabbath?" },
+        { "value": "A wop bop a loo bop…" },
+        { "value": "Hoje estou no estilo punk confortável!" }
     ],
 
     "final_words": [
@@ -176,6 +186,15 @@
         { "value": "Porra que notícia triste mano!" },
         { "value": "Thank you very Fucking much!" },
         { "value": "De atenção para a minha namorada" },
-        { "value": "Smoke it up tuêzin!" }
+        { "value": "Smoke it up tuêzin!" },
+        { "value": "o 5° Coringa" },
+        { "value": "é o que está escrito na minha camiseta!" },
+        { "value": "MD chefe" },
+        { "value": "Foi plaqtudum…" },
+        { "value": "i want my jag!" },
+        { "value": "tera filhos ainda neste ano!!" },
+        { "value": "(com todo meu respeito)" },
+        { "value": "Love!fuck off!" },
+        { "value": "vocês querem que eu fale mais nessa porra de twitter?" }
     ]
 }
